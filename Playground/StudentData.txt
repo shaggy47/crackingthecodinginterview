@@ -1,0 +1,8 @@
+﻿1 Data Source 45
+2 Maths 50
+4 Data Source 50
+5 Science 40
+6 Economics 50
+7 Electronics 34
+8 Maths 44
+9 Data Source 40
